@@ -1,3 +1,6 @@
 [submodule "datasets"]
 	path = datasets
 	url = https://github.com/WataruSuzuki/DatasetExampleForStudying.git
+[submodule "VisionFrameworkSample"]
+	path = VisionFrameworkSample
+	url = git@github.com:WataruSuzuki/VisionFrameworkSample.git
